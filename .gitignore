@@ -41,3 +41,5 @@
 */*/*/*/*/*/.DS_Store
 .venv
 .vscode
+code/DataGenerator/__pycache__/
+code/DataGenerator/engine_log.txt
